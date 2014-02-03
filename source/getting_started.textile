@@ -1,0 +1,5 @@
+h2. Getting Started
+
+Welcome to Code for Australia. This guide is a work in progress and will contain information relating to the workflow for contributors to the projects that we run.
+
+endprologue.

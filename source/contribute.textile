@@ -1,0 +1,45 @@
+h2. Contributing to Code for Australia guides
+
+This guide covers ways in which _you_ can become a part of the ongoing development of Code for Australia. After reading it, you should be familiar with:
+
+* Using GitHub to report issues
+* Cloning master and submitting pull requests
+* Contributing to the Code for Australia documentation
+
+Code for Australia is a collaborative environment and we encourage anyone who wants to help improve methods and documentation to do so. We believe that we can improve our processes over time in order to create valuable civic engagement and give back to the community.
+
+endprologue.
+
+h3. Reporting an Issue
+
+h4. Creating a Bug Report
+
+h4. Special Treatment for Security Issues
+
+h3. Contributing to the Code for Australia guides
+
+You can help improve the Code for Australia guides by making them more coherent, adding missing information, correcting factual errors, fixing typos, bringing it up to date with the latest version.
+
+If you're confident about your changes, you can push them yourself directly via "guides". guides is a branch with an *open commit policy* and public write access. Commits to guides are still reviewed, but that happens after they are pushed.
+
+If you are unsure of the documentation changes, you can create an issue in the "Codeforaus" issues tracker on GitHub.
+
+h4. Install git
+
+Code for Australia guides uses git for source code control. The "git homepage":http://git-scm.com/ has installation instructions. There are a variety of resources on the net that will help you get familiar with git:
+
+* "Everyday Git":http://schacon.github.com/git/everyday.html will teach you just enough about git to get by.
+* The "PeepCode screencast":https://peepcode.com/products/git on git ($9) is easier to follow.
+* "GitHub":http://help.github.com offers links to a variety of git resources.
+* "Pro Git":http://progit.org/book/ is an entire book about git with a Creative Commons license.
+
+h4. Clone the Code for Australia guides Repository
+
+Navigate to the folder where you want the Code for Australia guides source code (it will create its own subdirectory) and run:
+
+<shell>
+$ git clone git://github.com/codeforaustralia/guides
+$ cd guides
+</shell>
+
+h3. Contributors

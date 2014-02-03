@@ -1,0 +1,25 @@
+#header{
+	background: #4bb896;
+}
+
+#header .nav .index, #header .nav .index a, #guides{
+	background: #409080;
+}
+
+#guides{
+ color: white;
+}
+
+#header h1{
+	text-indent: 0;
+}
+
+#header h1 img{
+	width: 297px;
+}
+
+#guides dt{
+	color: black;
+	font-weight: bold;
+	font-size: 16px;
+}

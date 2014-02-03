@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+<title>Code For Australia - GuidesCode For Australia - Guides: Git Workflow</title>
+
+<link rel="stylesheet" type="text/css" href="stylesheets/style.css" />
+<link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="stylesheets/overrides.style.css" />
+<link rel="stylesheet" type="text/css" href="stylesheets/overrides.print.css" media="print" />
+
+
+<link rel="stylesheet" type="text/css" href="stylesheets/syntaxhighlighter/shCore.css" />
+<link rel="stylesheet" type="text/css" href="stylesheets/syntaxhighlighter/shThemeRailsGuides.css" />
+</head>
+<body class="guide">
+  <div id="topNav">
+    <div class="wrapper">
+      
+
+    </div>
+  </div>
+  <div id="header">
+    <div class="wrapper clearfix">
+      <h1><a href="index.html" title="Return to home page"><img src="images/logo.png" /></a></h1>
+      <p class="hide"><a href="#mainCol">Skip navigation</a>.</p>
+      <ul class="nav">
+        <li><a href="index.html">Home</a></li>
+        <li class="index"><a href="index.html" onclick="guideMenu(); return false;" id="guidesMenu">Guides Index <span id="guidesArrow">&#9656;</span></a>
+          <div id="guides" class="clearfix" style="display: none;">
+            <hr />
+            <dl class="L">
+    <dt>Start Here</dt>
+      <dd><a href="getting_started.html">Getting Started</a></dd>
+      <dd><a href="team_structure.html">Team Structure</a></dd>
+      <dd><a href="communication.html">Communication</a></dd>
+    <dt>Programmers</dt>
+      <dd><a href="programmer_prerequisites.html">Programmer Prerequisites</a></dd>
+      <dd><a href="git_workflow.html">Git Workflow</a></dd>
+      <dd><a href="agile_development.html">Agile Development</a></dd>
+</dl>
+<dl class="R">
+    <dt>Designers</dt>
+      <dd><a href="designer_prerequisites.html">Designer Prerequisites</a></dd>
+    <dt>Media</dt>
+      <dd>TBC</dd>
+    <dt>Government</dt>
+      <dd>TBC</dd>
+</dl>
+
+
+          </div>
+        </li>
+        <li><a href="contribute.html">Contribute</a></li>
+        <li><a href="credits.html">Credits</a></li>
+      </ul>
+    </div>
+  </div>
+  <hr class="hide" />
+
+  <div id="feature">
+    <div class="wrapper">
+      <h2>Git Workflow</h2>
+<p>This guide covers the main workflow for Code for Australia projects. After reading it, you should be familiar with:</p>
+<ul>
+	<li>Using a Git branching model locally</li>
+	<li>Forking repos and submitting pull requests</li>
+	<li>Raising issues via Github</li>
+</ul>
+
+      <div id="subCol">
+        <h3 class="chapter"><img src="images/chapters_icon.gif" alt="" />Chapters</h3>
+        <ol class="chapters">
+          <li><a href="#local-git-workflow"><p>Local Git workflow</p>
+</a><ul><li><a href="#start-coding"><p>Start coding</p>
+</a></li> <li><a href="#local-workflow"><p>Local workflow</p>
+</a></li></ul></li><li><a href="#working-with-github"><p>Working with Github</p>
+</a><ul><li><a href="#fork-a-repo"><p>Fork a repo</p>
+</a></li> <li><a href="#create-a-pull-request"><p>Create a pull request</p>
+</a></li> <li><a href="#raising-issues"><p>Raising issues</p>
+</a></li></ul></li>
+        </ol>
+      </div>
+    </div>
+  </div>
+
+  <div id="container">
+    <div class="wrapper">
+      <div id="mainCol">
+        <h3 id="local-git-workflow">1 Local Git workflow</h3>
+<p>Each project will be stored in a public repo at the Code for Australia Github account. This means that you are free to work on any project that you choose. After forking a repo onto your presonal Github account and then cloning that to your desktop, you can employ this workflow to help when submitting pull requests back to the main repo.</p>
+<h4 id="start-coding">1.1 Start coding</h4>
+<p>To start working you must clone a copy of the repo that you have forked in your Github account.</p>
+<div class="note"><p>For instructions on how to fork a repo from Code for Australia to your personal Github account, read onto the next section &#8220;Working with Github&#8221;</p></div>
+
+<div class="code_container">
+<pre class="brush: plain; gutter: false; toolbar: false">
+
+
+	$ git clone git://github.com/&lt;your-account-name&gt;/&lt;repo-name&gt;.git
+	$ git checkout -b develop origin/develop
+
+</pre></div><p>The reason that we work on the develop branch is that usually the project leads will review and clean all commits that are accepted into the &#8216;develop&#8217; branch, making it cleaner when merging back into master for a release.</p>
+<p>Before commencing work, checkout a branch (named appropriately) relating to the changes/additions that you are about to make.</p>
+<div class="code_container">
+<pre class="brush: plain; gutter: false; toolbar: false">
+
+
+	$ git checkout -b &lt;new-branch-name&gt; develop
+
+</pre></div><h4 id="local-workflow">1.2 Local workflow</h4>
+<div class="note"><p>This article <a href="http://nvie.com/posts/a-successful-git-branching-model/">&#8220;A successful git branching model&#8221;</a> will provide you with an overview of how the projects will be maintained.</p></div>
+<p>When you are ready to upload your changes back to your Github account, merge your new branch back to your local develop branch.</p>
+<div class="code_container">
+<pre class="brush: plain; gutter: false; toolbar: false">
+
+
+	$ git checkout develop
+	$ git merge --no-ff &lt;new-branch-name&gt;
+	$ git push
+
+</pre></div><h3 id="working-with-github">2 Working with Github</h3>
+<p>It is nessasary that you have your own Github account in order to contribute to Code for Australia projects. If you do not have one, sign up for a free account at <a href="http://www.github.com">github.com</a></p>
+<h4 id="fork-a-repo">2.1 Fork a repo</h4>
+<p>Navigate to the <a href="https://github.com/CodeforAustralia">Code for Australia Github Account</a> and select a repo that you would like to contribute to.</p>
+<p>Then click the &#8216;Fork&#8217; icon near the top right of the screen. This will then create a forked version of the repo in your account.</p>
+<h4 id="create-a-pull-request">2.2 Create a pull request</h4>
+<p>Go to your forked repo <strong>develop</strong> branch and click the <strong>Pull request</strong> icon.</p>
+<p>Read <a href="https://help.github.com/articles/using-pull-requests">this guide</a> on github for more details.</p>
+<h4 id="raising-issues">2.3 Raising issues</h4>
+<p>Navigate to the <a href="https://github.com/CodeforAustralia">Code for Australia Github Account</a> and select a repo that you would like to raise an issue for. Then click the <strong>issues</strong> tab on the right and you will be able to see all open issues.</p>
+<div class="note"><p>Issues are for features and code that have already been implemented or that are about to be implemented. If you wish to discuss the direction and long-term decisions of the project, please do this via the project management tools so that all team members can be privy to this information, not only the programming team.</p></div>
+<p>Make sure that the issue does not already exist by searching the existing issues, then go ahead and create a new issue. Questions about implentation should also be raised and discussed on Github.</p>
+
+      </div>
+    </div>
+  </div>
+
+  <hr class="hide" />
+  <div id="footer">
+    <div class="wrapper">
+      
+  <p>This work is licensed under a
+    <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution Share Alike 3.0</a>
+    license.
+  </p>
+  <p>
+  </p>
+
+    </div>
+  </div>
+
+  <script type="text/javascript" src="javascripts/guides.js"></script>
+  <script type="text/javascript" src="javascripts/syntaxhighlighter/shCore.js"></script>
+  <script type="text/javascript" src="javascripts/syntaxhighlighter/shBrushRuby.js"></script>
+  <script type="text/javascript" src="javascripts/syntaxhighlighter/shBrushJScript.js"></script>
+  <script type="text/javascript" src="javascripts/syntaxhighlighter/shBrushCss.js"></script>
+  <script type="text/javascript" src="javascripts/syntaxhighlighter/shBrushXml.js"></script>
+  <script type="text/javascript" src="javascripts/syntaxhighlighter/shBrushSql.js"></script>
+  <script type="text/javascript" src="javascripts/syntaxhighlighter/shBrushPlain.js"></script>
+  <script type="text/javascript">
+    SyntaxHighlighter.all()
+  </script>
+</body>
+</html>

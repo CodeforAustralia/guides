@@ -1,0 +1,27 @@
+h2. Communication
+
+This guide covers a list of tools that are used for collaboration on each Code for Australia project. After reading this guide you should know:
+
+* Where to discuss new ideas
+* How to raise discussions about exising projects
+* The appropriate tool to use when raising issues in your particular area of contribution
+
+endprologue.
+
+h3. Tools
+
+h4. Trello
+
+TBC
+
+h4. Yammer
+
+TBC
+
+h4. Github
+
+TBC
+
+h4. LayerVault
+
+TBC

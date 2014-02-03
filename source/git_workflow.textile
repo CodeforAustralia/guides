@@ -1,0 +1,74 @@
+h2. Git Workflow
+
+This guide covers the main workflow for Code for Australia projects. After reading it, you should be familiar with:
+
+* Using a Git branching model locally
+* Forking repos and submitting pull requests
+* Raising issues via Github
+
+endprologue.
+
+h3. Local Git workflow
+
+Each project will be stored in a public repo at the Code for Australia Github account. This means that you are free to work on any project that you choose. After forking a repo onto your presonal Github account and then cloning that to your desktop, you can employ this workflow to help when submitting pull requests back to the main repo.
+
+h4. Start coding
+
+To start working you must clone a copy of the repo that you have forked in your Github account.
+
+NOTE: For instructions on how to fork a repo from Code for Australia to your personal Github account, read onto the next section "Working with Github"
+
+<shell>
+
+	$ git clone git://github.com/<your-account-name>/<repo-name>.git
+	$ git checkout -b develop origin/develop
+
+</shell>
+
+The reason that we work on the develop branch is that usually the project leads will review and clean all commits that are accepted into the 'develop' branch, making it cleaner when merging back into master for a release.
+
+Before commencing work, checkout a branch (named appropriately) relating to the changes/additions that you are about to make.
+
+<shell>
+
+	$ git checkout -b <new-branch-name> develop
+
+</shell>
+
+h4. Local workflow
+
+NOTE: This article ""A successful git branching model"":http://nvie.com/posts/a-successful-git-branching-model/ will provide you with an overview of how the projects will be maintained.
+
+When you are ready to upload your changes back to your Github account, merge your new branch back to your local develop branch.
+
+<shell>
+
+	$ git checkout develop
+	$ git merge --no-ff <new-branch-name>
+	$ git push
+
+</shell>
+
+h3. Working with Github
+
+It is nessasary that you have your own Github account in order to contribute to Code for Australia projects. If you do not have one, sign up for a free account at "github.com":http://www.github.com
+
+h4. Fork a repo
+
+Navigate to the "Code for Australia Github Account":https://github.com/CodeforAustralia and select a repo that you would like to contribute to.
+
+Then click the 'Fork' icon near the top right of the screen. This will then create a forked version of the repo in your account.
+
+h4. Create a pull request
+
+Go to your forked repo *develop* branch and click the *Pull request* icon.
+
+Read "this guide":https://help.github.com/articles/using-pull-requests on github for more details.
+
+h4. Raising issues
+
+Navigate to the "Code for Australia Github Account":https://github.com/CodeforAustralia and select a repo that you would like to raise an issue for. Then click the *issues* tab on the right and you will be able to see all open issues.
+
+NOTE: Issues are for features and code that have already been implemented or that are about to be implemented. If you wish to discuss the direction and long-term decisions of the project, please do this via the project management tools so that all team members can be privy to this information, not only the programming team.
+
+Make sure that the issue does not already exist by searching the existing issues, then go ahead and create a new issue. Questions about implentation should also be raised and discussed on Github.

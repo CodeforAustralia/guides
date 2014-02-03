@@ -1,0 +1,40 @@
+h2. Team Structure
+
+This guide covers ways in which _you_ can become part of a project at Code for Australia.
+
+endprologue.
+
+h3. Core Team
+
+The core team consists of 4 roles:
+
+* Dan Groch - TBC
+* Jacob Lindsay - TBC
+* Alvaro Maz - TBC
+* Chris D'Aloisio - TBC
+
+h3. Project Team
+
+Each project that CfA undertakes will usually consist of the following teams and sub-roles. Each *Senior* role will be responsible for communicating directly with the Executive Team.
+
+NOTE: Senior roles in CfA projects are also contributors. We adopt the approach that the idea and implementation should idealy come from the same person. This then adds integrity to a project build as the contibutors beliefs and energy are engrained into their contributions to the project.
+
+h4. Executive Team
+
+* 1 x Project Leader
+* 1 x Core Team Member/Mentor
+
+h4. Design Team
+
+* 2 x Senior Designers
+* 3+ x Design Contributors
+
+h4. Technical Team
+
+* 2 x Senior Developers
+* 3+ x Design Contributors
+
+h4. Marketing Team
+
+* 1 x Senior Marketer
+* 2 x Marketing Contributors
