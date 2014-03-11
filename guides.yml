@@ -24,6 +24,9 @@ index:
     - title: Getting Started
       url: getting_started
       text: Everything you need to know to start contributing to a Code For Australia project.
+    - title: Roles within a local Brigade
+      url: roles
+      text: A description of the key roles needed to organisae Brigade members
     - title: Team Structure
       url: team_structure
       text: Information about team hieracy for each project.
