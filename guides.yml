@@ -18,6 +18,9 @@ authors:
 
 index:
   Start Here:
+    - title: Introduction
+      url: introduction
+      text: What is a Brigade and what do they do?
     - title: Getting Started
       url: getting_started
       text: Everything you need to know to start contributing to a Code For Australia project.
