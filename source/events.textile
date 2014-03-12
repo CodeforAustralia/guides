@@ -1,4 +1,4 @@
-h2. Designer Prerequisites
+h2. Events Guide
 
 endprologue.
 
