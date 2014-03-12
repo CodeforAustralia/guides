@@ -1,0 +1,34 @@
+h2. How to host a "Hack Night"
+
+Code for Australia Brigades are "increasing innovation":http://www.smashingmagazine.com/2010/07/08/hack-nights/ and "building a global network":http://brigade.codeforamerica.org/ of weekly meetups to socialize, code, and foster interdisciplinary collaboration. These “hack nights” are building the social and technical infrastructure to make government by the people, for the people, for the 21st century. 
+
+endprologue.
+
+h3. Defining a hack night
+
+A civic hack night is a safe space* event that brings together an interdisciplinary group of community makers to meet regularly and collaborate on software and policy projects at the intersection of government and civic engagement.
+
+* "Safe space":http://en.wikipedia.org/wiki/Safe-space – A place where anyone can relax and be fully self-expressed, without fear of being made to feel uncomfortable, unwelcome, or unsafe on account of biological sex, race/ethnicity, sexual orientation, gender identity or expression, cultural background, age, or physical or mental ability; a place where the rules guard each person’s self-respect and dignity and strongly encourages everyone to respect others.
+
+* "Community Makers":http://en.wikipedia.org/wiki/Maker_culture – tinkerers, designers, software developers, data scientists, technical project or product managers, policy makers, lawyers, activists, non-governmental organizations, and government representatives.
+
+Note: Most hack nights operate under "Chatham House Rules":http://en.wikipedia.org/wiki/Chatham_House_Rule to ensure free flowing and respectful dialogue between the public and government officials.
+
+h3. The natural tension between getting things done vs just hanging out…
+
+Most hack nights have a natural tension between getting things done and having people hangout. For some, this hack night is the only night they get to work and collaborate with like minded civic hackers. For others, this is their “salon” night where they can openly discuss new ideas in a safe, like-minded space. Between the two, exists the perfect solution.
+
+Our suggestion is to seek out venues that can balance the two. For example, you might secure a venue that has three to four conference rooms that allow for flexibility. Should someone have a specific project they want to work on, they point them to a room and let them go to it. Otherwise, they reserve one room for “hacking” and another for “yacking.” This ensures each sub-community can set their tone.
+
+h3. Getting started
+
+If you are looking to start a hack night, there is a plethora of reference material to help you get up and running.
+
+* Check out Code for Australia's "Events Guide":http://events.codeforaustralia.org to help you with logistics such as finding a venue, promotion, and more.
+* Watch "Code for America’s Brigade Hangout on “How-To Hack Night”":http://codeforamerica.org/brigade-training/brigade06-27-2013/ and read the transcript.
+* Watch the "Civic Hacking 101 Video":https://www.youtube.com/watch?v=wH6LnW_qjeI — Taught by Chicago Brigade Captain "Christopher Whitaker":https://twitter.com/CivicWhitaker, this video offers a quick, 15 minute orientation to those new to civic hacking.
+* Watch the "GitHub 101 Video":https://www.youtube.com/watch?v=ZxabbwjcuIE — Occasionally, Chicago will have a class on a certain aspect of civic hacking. This video is a recording of Derek Eder’s GitHub 101 class.
+* Read "A Year of Chicago OpenGov Hack Night":http://www.smartchicagocollaborative.org/opengov-hack-night-1-year-anniversary/ — Blog post about the one year anniversary of Chicago’s OpenGov Hack Night, including lessons learned.
+* Attend a Code for Australia Brigade event close to you and ask its organizers about their best practices.
+
+Questions? Comments? Send them to "info@codeforaustalia.org":mailto:info@codeforaustalia.org or hit us up "@codeforaus":http://www.twitter.com/codeforaus on Twitter with hashtag #cfabrigade.

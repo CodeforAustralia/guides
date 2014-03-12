@@ -17,20 +17,65 @@ authors:
       description: Creative Control
 
 index:
-  Start Here:
+  Getting Started:
     - title: Introduction
       url: introduction
       text: What is a Brigade and what do they do?
-    - title: Getting Started
-      url: getting_started
-      text: Everything you need to know to start contributing to a Code For Australia project.
-    - title: Team Structure
-      url: team_structure
-      text: Information about team hieracy for each project.
+    - title: Roles within a local Brigade
+      url: roles
+      text: A description of the key roles needed to organise Brigade members
     - title: Communication
       url: communication
       text: A list of common tools that Code for Australia uses for collaboration between team members.
-  Programmers:
+    - title: Websites - Meetups - Social Media
+      url: social_media
+      text: Guidance on how to communicate your message and build the "presence" of your Brigade
+  How To:
+    - title: How to get started
+      url: getting_started
+      text: Everything you need to know to start contributing to a Code For Australia project.
+    - title: How to host a "Hack Night"
+      url: hack_night
+      text: Everything you need to know about hosting a "Hack Night"
+    - title: How to collaborate with Government
+      url: collaborate_government
+      text: Collaborating with Government takes time and commitment and a willingness to walk the proverbial mile in one another’s shoes.
+    - title: How to brand and market your Brigade
+      url: branding
+      text: Some suggestions about to brand your brigade of civic hackers!
+    - title: How to welcome new members to your Brigade
+      url: welcome_members
+      text: As we build digital interfaces for all we create welcoming, opening and accepting spaces for all
+  Templates:
+    - title: City Profile - City Assessment Documents
+      url: city_profile
+      text: This document is designed to help you think about your local resources. 
+    - title: Strategic Plan
+      url: strategic_plan
+      text: This document provides a skeleton structure for documenting your Brigade's stratic plan.
+    - title: Events Guide
+      url: events
+      text: Over time we’ve learned to understand what works and why. We document it all here.
+    - title: Name Tag Template
+      url: name_tags
+      text: Easily print off spiffy looking name tags for your Brigade meetups.
+    - title: Meetup Sign
+      url: meetup_sign
+      text: A nice big sign you can place outside your meetup space to welcome new members.
+  Marketing Materials:
+    - title: One Page Flyer
+      url: flyer
+      text: Exactly what it says on the box! A simple one-page flyer that decribes the core activities of a Brigade
+    - title: Slide Deck
+      url: slide_deck
+      text: A professional-looking slide deck you can use to introduce Code for Australia to your local government connections.
+    - title: Stickers
+      url: stickers
+      text: Because life is always more fun with stickers!
+    - title: Style Guide
+      url: style_guide
+      text: Established design patterns fonts and logos used by Code for Australia.
+  I'm a Developer:
     - title: Programmer Prerequisites
       url: programmer_prerequisites
       text: This guide covers the basic reading material that will get you up to speed in order to join an exsiting team and contribute to a code base.
@@ -40,15 +85,15 @@ index:
     - title: Agile Development
       url: agile_development
       text: This guide covers the basic reading material that allow you to understand CfA's release processes.
-  Designers:
-    - title: Designer Prerequisites
+  I'm a Designer:
+    - title: Coming soon!
       url: designer_prerequisites
-      text: This guide covers the basic reading material that will get you up to speed in order to join an exsiting team and contribute to a design project.
-  Media:
-    - title: TBC
+      text: ---
+  I'm into Media:
+    - title: Coming soon!
       url: media_info
       text: ---
-  Government:
-    - title: TBC
+  I'm in Government:
+    - title: Coming soon!
       url: gov_info
       text: ---
