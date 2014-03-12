@@ -1,0 +1,47 @@
+h2. Getting Started
+
+This guide explains how to get involved in your local Brigade, or start your own.
+
+endprologue.
+
+h3. About Code for Australia 
+
+Code for Australia was founded to build governments by the people, for the people, for the 21st century. We use the power of modern web technologies and network design principles to extend and strengthen the way citizens participate in their government. 
+
+We do this in many ways: through our Peer Network of public officials working across cities on shared issues; and by fostering the growing civic startup community through our Incubator. But we believe that none of the change we want to see in government can be achieved without building better connections between governments and the citizens they represent. We foster those relationships through our citizen volunteer program, called the Brigade.
+
+The Code for Australia Brigade is an organizing force for local civic engagement - a network of civic-minded volunteers who contribute their skills toward using the web as a platform for local government and community service.
+
+The Brigade program is open to everyone, even if you’re not a programmer.
+ 
+We have created this Brigade Toolkit to help you understand the Brigade program and how to get involved.
+
+h3. What is a Brigade?
+
+A Code for Australia Brigade is a group of volunteers who meet regularly to collaborate with government on technology, data, policy and design projects that strengthen their communities.
+ 
+Every Brigade is led by a Captain or an Organizer who is responsible for building the community and maintaining the relationship between the Brigade chapter and the local government. Brigade chapters meet at least monthly; most Brigades meet with greater frequency and have a range of monthly programming. 
+ 
+All Brigade chapters are connected through an online forum in order to share stories and support each other’s work. Brigades are also closely coordinated with Code for Australia's other programs: the Fellowship, the Accelerator, the Peer Network.
+
+h3. Who can participate in a Brigade?
+
+Anyone who wants to build twenty-first century interfaces to government. Though most of our projects are technical, there are many roles that do not require programming skills including: design, community organizing, event planning, marketing, data wrangling, policy, and writing.
+
+h3. What do Brigades do?
+
+Brigades meet regularly to collaborate with government on project that focus on how to use 21st century web and data tools to improve civic interfaces.
+
+For example, the Code for Chicago Brigade in the USA worked with the local government to build an app that helped citizens find places to get flu shots. It was subsequently redeployed by the City of Boston with support from the Code for Boston Brigade.
+ 
+In addition to our ongoing campaigns, we organize coordinated days of action. 
+
+Some Brigades go beyond software and advocate for a change in city policy. These Brigades work to build trust with their local governments and negotiate a shared vision. Some Brigades have members who are on local civic tech advisory boards and are seen as influential members with respected public policy understanding.
+
+h3. What if there isn’t a brigade where I live?
+
+You should organize one! 
+
+If you think that is too much of a commitment, sign up to be notified when a Brigade is started in your community. We’ll also keep you updated on ways you can participate individually in Brigade activities.
+
+Questions? Comments? Send them to "info@codeforaustalia.org":mailto:info@codeforaustalia.org or hit us up "@codeforaus":http://www.twitter.com/codeforaus on Twitter with hashtag #cfabrigade.

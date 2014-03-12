@@ -1,4 +1,4 @@
-h2. Designer Prerequisites
+h2. Meetup Sign
 
 endprologue.
 
