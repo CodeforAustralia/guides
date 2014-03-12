@@ -34,6 +34,9 @@ index:
     - title: How to host a "Hack Night"
       url: hack_night
       text: Everything you need to know about hosting a "Hack Night"
+    - title: How to collaborate with Government
+      url: collaborate_government
+      text: Collaborating with Government takes time and commitment and a willingness to walk the proverbial mile in one another’s shoes.
   Programmers:
     - title: Programmer Prerequisites
       url: programmer_prerequisites
