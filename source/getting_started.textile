@@ -1,7 +1,131 @@
 h2. Getting Started
 
-Welcome to Code for Australia. This guide is a work in progress and will contain information relating to the workflow for contributors to the projects that we run.
+Welcome to Code for Australia. Interested in setting up a local Brigade in your city? Awesome! This guide provides a basic checklist of the steps you can take to get started.
 
 endprologue.
 
-h4. To do ...
+h3. Guide to Getting Started
+
+h4. Get familiar with the Brigade Program.
+
+* Check out the "Brigade Pitch Deck":http://www.codeforaustralia.org. <!-- TODO -->
+* Read through this Guide.
+* Use the templates "“city profile”":http://www.codeforaustralia.org <!-- TODO --> and "“one year plan”":http://www.codeforaustralia.org <!-- TODO --> to think about the resources needed to sustain the brigade.
+
+h4. Start reaching out to your local government and your friends
+
+* Check out How to: "Collaborate with Government":http://www.codeforaustralia.org. <!--TODO -->
+* Introduce yourself to your government officials and start to outline potential ideas of collaboration.
+* Starting and running a Brigade is more fun and less work when you do with a group of friends. Gather your friends and bounce your ideas off of them. Make sure to share this Brigade Toolkit with them.
+
+h4. Introduce yourself to the Brigade Community
+
+* Introduce yourself on the "Brigade Organizers forum":http://www.codeforaustralia.org. <!--TODO -->
+
+h4. Host an organizers’ planning party
+
+* Once you have a date for your planning party email "info@codeforaustralia.org":mailto:info@codeforaustalia.org to place it on the Brigade’s calendar.
+* Always remember, starting and running a Brigade is more fun and less work when you do it as a team. By hosting an introductory planning party for like minded folk is a great way to start a Brigade in your city.
+* Invite four to six people
+** Gather a group representing diverse skillsets and expertise such as:
+** Code, government/policy, data, design, events/marketing
+* Use your network - great places to look for interested individuals are at hacking events, with in other meetups, at co-working spaces, and within local government.
+* At this organizers’ planning party, complete a "“City Profile”":http://www.codeforaustralia.org <!-- TODO -->
+* Send your completed City Profile to "info@codeforaustralia.org":mailto:info@codeforaustralia.org to set up a 1:1 meeting with the Brigade staff and your Brigade’s organizing team
+
+h4. Create your Brigade online
+
+* You can find out more about this in "“Websites, Meetup, and Social Media Outlets.”":http://www.codeforaustralia.org <!-- TODO -->
+* Create a “Code for [City Name]” or “Open [City Name]” on "Meetup.com":http://www.meetup.com
+** Add “Code for Australia Brigade” and “Code for Australia to Meetup categories.
+** Other good categories to add are: open source, hackerspaces, hackers, open government, hacking, civic engagement, web designers and developers, open data, civic action, civic engagement & technology
+* Configure the Meetup
+** Sample text:
+**** A Code for Australia Brigade focused on local government innovation in the city of [your city].
+**** Come join developers, designers, data geeks, civic leaders, organizers, and idea-makers who volunteer to collaborate with city government and civic orgs to adopt open web technologies.
+**** We meet every [day and frequency of meeting]. Meetings are [add format of meeting, ie. “casual, fun "hack nights" where we try to solve local civic problems through technology.”] Whether you come with a project or data set or just ready to jump in, we’re glad you are coding for [your city name].
+** Under your meetup’s “optional features” enable a mailing list by selecting “Allow all members to send messages” and select “Turn off message board and hide it.”
+*** You will find this under http://www.meetup.com/[meetup-name]/manage/settings/optional/
+** Start an introductory discussion by emailing your group with the following pieces of information.
+*** Name
+*** Neighborhood
+*** Affiliations - corporate or not
+*** Something you want to get from the forum or something you want to get done.
+*** Anything else you want to add but don't write a book. There's plenty of time to get to know one another.
+*** Then, encourage others to do the same.
+
+h4. Plan a hack night with your organizing team
+
+* Check out our "How to: Hack Night":http://www.codeforaustralia.org. <!-- TODO -->
+* Make sure your brigade is listed on "brigade.codeforaustralia.org":http://www.codeforaustralia.org <!-- TODO --> and ensure that you have configured your Meetup; have all of your friends join it.
+* Create your hacknight event on your Meetup.
+* Once you have a date for your hacknight, email "info@codeforaustralia.org":mailto:info@codeforaustralia.org to place it on the Brigade’s calendar.
+
+h4. Host your first Hack Night
+
+* There is a good chance you will spend your first community event getting to know the group that turns out, which is great! But in case your group wants to gets heads down right away, here are some projects you can get started working on together!
+** Learn - Watch "Jen’s TED Talk":http://www.youtube.com/watch?v=n4EhJ898r-k and "CfA Summit videos":http://www.youtube.com/playlist?list=PL65XgbSILalV-wInUiERrhjweMlJkukMd
+** Plan - Discuss your own brigade values document based off the "“Brigade Pitch Deck”":http://www.codeforaustralia.org <!-- TODO -->, outline a "one year plan":http://www.codeforaustralia.org<!-- TODO -->, watch the "civic hacknight 101 video":http://www.codeforamerica.org/blog/2013/07/24/brigade-101-how-to-hack-night/, or write up a plan to host your first series of meetups.
+** Develop - Brigade web presence and website
+*** Set up Group GitHub
+*** Fork the brigade landing page, customize and publish (code)
+*** Make sure site links to your to Events Page/s
+*** Make sure site links to your Discussion / Email list
+*** Make sure site links to your Social Media (Facebook / Twitter)
+*** Make sure site links to your Ideation / Projects page or tool.
+** Discuss - Have a local government official come in and discuss their desire for open data and open local government.
+
+h5. Keep building your local community. And participating in the national one.
+
+* Consistency and repetition are key. This is what forms a civic hacking practice. Keep hosting your hack night and building relationships with government. Once you have completed your "Strategic Plan":http://www.codeforaustralia.org<!-- TODO --> and "City Profile":http:///codeforaustralia.org<!-- TODO -->, you will be able to share your blockers, challenges, and tips on the Brigade Organizers forum.
+
+h4. Start your next activity!
+
+* Check out these "Key Activities":http://www.codeforaustralia.org and choose where you want to get started next! Key Activities include:
+** Help government get open with data
+** Publish an open budget
+** Help cities deploy apps
+** Advocate for structural change
+** Form a Citizen Advisory Council for Civic Tech
+** Promote citizen engagement online
+
+h3. Track Your Progress
+
+Print this webpage and tick items off the checklist as you complete them!
+
+|_. To Do |_.  Complete? |
+| 1. Get familiar with the Brigade Program. | |
+| 2. Start reaching out to your local friends and local government. | |
+| 3. Introduce yourself to the Brigade community | |
+| 4. Host an organizers’ planning party | |
+| 5. Create your Brigade online | |
+| 6. Plan a hack night with your organizing team | |
+| 7. Host your first hack night | |
+| 8. Keep building your local community. And participating in the national one. | |
+| 9. Start your next activity! | |
+
+h3. Tips on Organizing
+
+The idea of a Brigade is to form a partnership with your city based on the Brigade’s core activities.
+
+Becoming an organizer is a careful balance between your ideas and everyone elses. The Bridge program is working to distill its knowledge into this toolkit. Additionally, there are several online courses you can take to better prepare yourself to balance the needs of your community and the objectives of the Brigade program.
+
+Several Captains have found "New Organizing Institute’s":http://neworganizing.com/ (NOI) online courses to be helpful. You might want to take a few mins and review the following online videos from NOI.
+
+* "Story of Self":http://neworganizing.com/toolbox/training/story-of-self/
+* "Story of US & Now":http://neworganizing.com/toolbox/training/story-of-us-and-now/
+* "Setting up & Supporting Volunteer Teams":http://neworganizing.com/toolbox/training/setting-up-supporting-vol-teams/
+* "Building Teams":http://neworganizing.com/toolbox/training/setting-up-supporting-vol-teams/
+* "Tactics and Timing":http://neworganizing.com/toolbox/training/tactics-and-timing/
+
+h3. Notes on Brigade Culture
+
+Through all Brigade events, we seek to establish a safe place and space for all people and ideas to intermix. Brigade events tend to focus on interdisciplinary group of community makers who are meeting regularly to collaborate on software and policy projects which sit at the intersection of government and civic engagement.
+
+Most communities choose to operate under "Chatham House Rules":http://en.wikipedia.org/wiki/Chatham_House_Rule to ensure free flowing and respectful dialogue between the public and government officials.
+
+Safe space – A place where anyone can relax and be fully self-expressed, without fear of being made to feel uncomfortable, unwelcome, or unsafe on account of biological sex, race/ethnicity, sexual orientation, gender identity or expression, cultural background, age, or physical or mental ability; a place where the rules guard each person’s self-respect and dignity and strongly encourages everyone to respect others. - Borrowed from "Advocates for Youth’s Website":http://www.advocatesforyouth.org/index.php?option=com_content&task=view&id=607&Itemid=177
+
+Community Makers – tinkerers, designers, software developers, data scientists, technical project or product managers, policy makers, lawyers, activists, non-governmental organizations, and government representatives.
+
+*Note:* You can find more information about Brigade Culture in "“How to: Welcome New Members.”":http//codeforaustralia.org <!-- TODO -->
