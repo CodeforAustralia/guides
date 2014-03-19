@@ -92,7 +92,7 @@ h3. Event Registration Tool
 
 For simplicity, we recommend using "Meetup.com":http://www.meetup.om. Most of the Brigades are on Meetup.com and this tool provides just enough features to get started. The downside is that you can't collect email addresses with Meetup.com. If you'd like to collect the email addresses of your Brigade members, one alternative is to use "Eventbrite":http://www.eventbrite.com.
 
-Note: We understand that Meetup.com isn’t always avaliable around the world. Once you submit your "City Profile":https://docs.google.com/document/d/1r0aEcMwpMSwo4P-x6PJ5WV5y1ouciOkvRTiGATFJAmU/edit and "Strategic Plan":https://docs.google.com/document/d/1jTl0jRtyfPvlxweDuUSygnpo7ZG-rRV5lDnYpTLwbsI/edit#heading=h.a1555betqk89, if you have questions or end up using another tool, you can let other organizers know on the Brigade Organizers forum.
+Note: We understand that Meetup.com isn’t always avaliable around the world. Once you submit your "City Profile":https://docs.google.com/document/d/1r0aEcMwpMSwo4P-x6PJ5WV5y1ouciOkvRTiGATFJAmU/edit and "Strategic Plan":strategic_plan.html, if you have questions or end up using another tool, you can let other organizers know on the Brigade Organizers forum.
 
 h4. Configuring Meetup.com
 
