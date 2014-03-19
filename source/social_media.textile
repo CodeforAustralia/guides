@@ -1,136 +1,160 @@
-h2. Websites - Meetups - Social Media
+h2. Websites, Meetups and Social Media
 
-This collection of chapters cover the basic elements of the Brigade’s web presence and YOUR Brigade web presence. 
+This section of the guides explains how to build your Brigade's presence online and offline via the web, meetups and social media.
 
 endprologue.
 
 h3. Introduction 
 
-First and foremost, you must understand that if your Brigade isn’t on the “net” is doesn’t exist. Also, you should take into consideration your audience is divided into two groups - the world and then your community / Brigade’s members. When communicating to the world, simplify your message. Less is best. Make your tone clear, professional, and universal. This also applies to your “net” presence. Be simple, clean, and efficient. Just like a handshake, your Brigade’s web presence is where many will make their first impression. 
+If your Brigade isn’t on the Internet is doesn’t exist. Also, you should take into consideration your audience is divided into two groups: 1. your Brigade; and 2. the world at large. When communicating with the world at large, remember to keep your message simple. As the saying goes, "less is more". Make your tone clear, professional, and universal. The same principle extends to your web presene. Be simple, clean, and efficient in your communications. First impressions last, so make yours count. 
 
-From our experience, there are six key elements to a Brigade’s digital presence. 
+There are six key elements to a Brigade’s digital presence:
+* *Website* - a single place on the internet where the world can find you.
+* *Discussion Group* - a place for your community to discuss issues openly.
+* *Event registration tool* - a tool that enables you to list events and gather attendees.
+* *Project Ideation* - a space where people can propose projects.
+* *Software Code Repository* - a collective space where people can share their code.
+* *Social Media Outlets* - other elements of the outreach infrastructure.
 
-* Website / Web presence - a single point on the internet place where the world can find you.
-* Discussion Group - a place for your community to discuss issues openly.
-* Event registration tool - a tool that enables you to list events and gather attendees.
-* Project Ideation - a space where people can propose projects.
-* Software Code Repository - a collective space where people can share their code.
-* Social Media Outlets - other elements of the outreach infrastructure.
+Some of these tools are already provided by "Code for Australia":http://brigade.codeforaustralia.org, including our "volunteer forum":http://brigade.codeforaustralia.org/volunteer-forum and Yammer for ideation and collaboration.
 
-h3. Your Brigade Name
+h3. Brigade Names
 
-What’s in a name? Everything!
+What’s in a name? Everything! Finding the right Brigade name is key. 
 
-Finding the right Brigade name is key. Before you start calling your Brigade “Code for X” or “Open X,” do some research. See who is using “Code for” or “Open…” Write out all the different permutations. If your city is known for initials, write it down. Once you have searched via a search engine, do a WHOIS search on some variations. 
+Before you start calling your Brigade __Code for X__ or __Open X__, do some research. See if anyone else is already using those names, and if they are try and get in touch with them.  Write out all the different permutations. If your city is known for initials, write them down. Once you have searched via a search engine, do a "WHOIS":http://whois.net/ search on some variations. 
 
 h4. Domains
+
 In some municipalities, it is easy to go crazy and easily come up with five to ten domains with your brigade’s name. In reality, you only need one domain. When you do decide to purchase a domain, you might consider any of your complementary domains - .net, .org, .com, etc...
 
-h3. Website / Web Presence
+h3. Building Your Brigade's Web Presence
+
 This section will walk you through the Brigade’s site and ideas on how to maintain your own Brigade site.
 
 To start, there are two things you need to create for your Brigade. 
-1. Register your location and brigade on < brigade.codeforamerica.org >
-2. Create an event registration site and communications list for your Brigade
+# Register your location and brigade by sending an email request to "info@codeforaustralia.org":mailto:info@codeforaustralia.org
+# Create an event registration site (e.g. on "Meetup":http://www.meetup.com) and communications list for your Brigade.
 
-h4. Brigade.CodeForAmerica.org
-Code for America’s brigade program has a central site that aggregates all Brigades Locations, Web presence, and Calendars. 
+h4. Brigade.CodeForAustralia.org
 
-Though the site you can add your location, maintain links to your Brigade, and ensure that your events calendar is populated to the central Brigade calendar. The site is open sourced; you can fork it and if you have any issues with it, you are encouraged to file a ticket on github.
+Code for Australia's brigade program has a central site that aggregates all Brigade "locations":http://brigade.codeforaustralia.org/locations, "events":http://bgirade.codeforaustralia.org/events, web presence and social media links.
 
-How to add assets:
-Location: 
-this is done when you first registered. 
-If you didn’t add your location to the site, file a ticket on Github and start the title with “Location:”.
-Brigade:
-on http://brigade.codeforamerica.org/brigades - you will need to login and deploy an app. If you do not see a ticket 
-on http://brigade.codeforamerica.org/pages/events
-Meetup.com - tag your meetup with “Code for America Brigade”
-Calendar - file a ticket on github and start the issue with “Calendar:”
-Applications:
-For now, file a ticket on github and start the issue with “App:”
-Calendar: 
-For now, file a ticket on github and start the issue with “Cal:”
-Ensure to include the following
-Date
-Start time & time zone
-End time & time zone
-Title of Event, including Brigade Name
-City / Location
-Specific URL for the event
+Though the site you can add your location, maintain links to your Brigade, and ensure that your events calendar is populated to the central "Brigade calendar"::http://brigade.codeforaustralia.org/events. The site is open sourced; you can fork it. If you have any issues with the site, please file a ticket on github and we'll respond.
+
+h5. How to add assets:
+
+*Location*
+
+This completed when you first register. If you didn’t add your location to the site, file a ticket on Github and start the title with “Location:”.
+
+*Brigade*
+
+At "http://brigade.codeforaustralia.org/brigades":http://brigade.codeforaustralia.org/brigades - you will need to login and deploy an app. If you do not see a ticket 
+
+At "http://brigade.codeforaustralia.org/events":http://brigade.codeforaustralia.org/events
+* Meetup.com - tag your meetup with “Code for Australia Brigade”
+* Calendar - file a ticket on github and start the issue with “Calendar:”
+
+*Applications*
+
+For now, file a ticket on github and start the issue with “App” 
+
+*Calendar*
+
+For now, file a ticket on github and start the issue with “Cal” and make sure you include the following information:
+* Date
+* Start time & time zone
+* End time & time zone
+* Title of Event, including Brigade Name
+* City / Location
+* Specific URL for the event
 
 h4. Your Brigade site
+
 As mentioned above, your primary web presence is your “online” home and where people will gather their first impressions. When starting off, it is recommended to keep your presence as simple and clean as possible. 
 
 At a minimum, your site should include the following:
-* A welcome page that introduces the Brigade to your city and how to connect. A great example of this is http://welcome.codeforhamptonroads.org 
-* An about page that informs people whom and where to ask questions. Again, Code for Hampton Roads is a great example of this.
+* A welcome page that introduces the Brigade to your city and how to connect. A great example from the United States is "http://welcome.codeforhamptonroads.org":http://welcome.codeforhamptonroads.org/ 
+* An about page that informs people whom and where to ask questions.
 * Where to connect to your Brigade events.
 * A link to your discussion group and how to introduce new members to the community.
 
 Once you’ve started to grow your brigade, make sure this website points to all of your other online presence - GitHub, a listing of your projects/tools, Ideation tool, Social Media, etc.
 
 h4. Setting up your Brigade site
-The best Brigade sites are simple view and simple to manage. There are a few ways to accomplish this. First, there is to create a simple tumblr or wordpress page and configure it as you see fit. Second, you can fork the “Brigade Bootstrap.” Additionally, you could implement Chicago’s Open Gov Hacknight website.
+
+The best Brigade sites are simple to navigate and manage. There are a few ways to accomplish this. One option is to create a simple "tumblr":http://www.tumblr.com or "wordpress":http://www.wordpress.com page and configure it as you see fit. Second, you can fork the "Brigade Bootstrap.":https://github.com/c4hrva/c4hrva-landing Third, you could fork and implement a variation of "Chicago’s Open Gov Hacknight website":https://github.com/open-city/open-gov-hack-night.
 
 Note: If you end up deploying something else, please share the code with other Brigade organizers. Once you submit your City Profile and Strategic Plan, you will be able to share code on the Brigade Organizers forum.
 
 h3. Event Registration Tool
 
-For simplicity, we recommend using meetup.com. Most of the Brigades are on meetup.com and this tool provides just enough tools to get started. The downside is that you will not have the ability to collect email address. Because of this, one or two brigades, most notably Open City Apps in Chicago, are using Eventbrite for their hacknights. Some brigades will use Eventbrite for special events. 
+For simplicity, we recommend using "Meetup.com":http://www.meetup.om. Most of the Brigades are on Meetup.com and this tool provides just enough features to get started. The downside is that you can't collect email addresses with Meetup.com. If you'd like to collect the email addresses of your Brigade members, one alternative is to use "Eventbrite":http://www.eventbrite.com.
 
-Note: We understand that Meetup.com isn’t always avaliable around the world. Once you submit your City Profile and Strategic Plan, if you have questions or end up using another tool, you can let other organizers know on the Brigade Organizers forum.
+Note: We understand that Meetup.com isn’t always avaliable around the world. Once you submit your "City Profile":https://docs.google.com/document/d/1r0aEcMwpMSwo4P-x6PJ5WV5y1ouciOkvRTiGATFJAmU/edit and "Strategic Plan":https://docs.google.com/document/d/1jTl0jRtyfPvlxweDuUSygnpo7ZG-rRV5lDnYpTLwbsI/edit#heading=h.a1555betqk89, if you have questions or end up using another tool, you can let other organizers know on the Brigade Organizers forum.
 
-h4. Configuring Meetup
+h4. Configuring Meetup.com
 
-Again, we recomened using Meetup.com if you can. The following is how to configure meetup.com for your Brigade.
+The following is how to configure "meetup.com":http://www.meetup.com for your Brigade.
 
-Create a “Code for [City Name]” or “Open [City Name]” on Meetup.com
-Write “About Text”
-Sample text:
-A Code for America Brigade focused on municipal innovation in the city of [your city].
-Come join other developers, designers, data geeks, civic leaders, organizers, and idea-makers who volunteer to collaborate with city government and civic orgs to adopt open web technologies.
-We meet every [day and frequency of meeting]. Meetings are [add format of meeting, ie. “casual, fun "hack nights" where we try to solve local civic problems through technology.”] Whether you come with a project or data set or just ready to jump in, we’re glad you are coding for [your city name].
-Add “Code for America Brigade” and “Code for America” to Meetup categories/topics. This will ensure that your Brigade appears on brigade.codeforamerica.org 
+1.  Create a “Code for *[City Name]*” on Meetup.com
+
+2. Write the “About Text”
+
+p(. __A Code for Australia Brigade focused on municipal innovation in the city of *[your city]*.__
+
+p(. __Come join other developers, designers, data geeks, civic leaders, organizers, and idea-makers who volunteer to collaborate with city government and civic orgs to adopt open web technologies.__
+
+p(. __We meet every [day and frequency of meeting]. Meetings are [add format of meeting, ie. “casual, fun "hack nights" where we try to solve local civic problems through technology.”] Whether you come with a project or data set or just ready to jump in, we’re glad you are coding for [your city name].__
+
+3. Add “Code for Australia Brigade” and “Code for Australia to Meetup categories/topics. This will ensure that your Brigade appears on "brigade.codeforaustralia.org":http://brigade.codeforaustralia.org
+
 Other good categories to add are: open source, hackerspaces, hackers, open government, hacking, civic engagement, web designers and developers, open data, civic action, civic engagement & technology
-Addtionally, make sure all of your Brigade’s URLs are listed on the meetup.com page. You can do this though the About section or in the six URL slots Meetup.com gives you.
-Under “optional features,” enable “Mailing List”
-“Allow all members to send messages”
-Under “message board,” select “Turn off message board and hide it.”
-On the same page, fill in your other links. 
-Then, start an introductory thread. This is explained in the next chapter Discussion Group
+
+4. Addtionally, make sure all of your Brigade’s URLs are listed on the meetup.com page. You can do this though the About section or in the six URL slots Meetup.com gives you.
+
+5. Under “optional features,” enable “Mailing List”
+* “Allow all members to send messages”
+* Under “message board,” select “Turn off message board and hide it.”
+* On the same page, fill in your other links. 
+* Then, start an introductory thread. This is explained in the next chapter Discussion Group
 
 h3. Discussion Group
+
 One of the core components to your group is your online discussion thread. It is important that this space carry the same tone of openness, acceptance, and security that of a physical meeting. Regardless of platform, a discussion group’s goal is to glue together a community.
 
 h4. Google vs Meetup vs etc…
+
 If you have the ability to use Meetup.com, we recommend using meetup.com’s email services. We recommend this due to your members receiving event notices from meetup.com AND it minimizes the number of usernames and passwords your members have to use. Should you find yourself in a position where meetup.com will not work, google groups is a great alternative. Alternatively, you can stand up your own group-mailing software or discussion board.
 
 h4. Introduction thread
-As mentioned in the Getting Started Document, having an introduction thread is a requirement for any good online group. From our research, you should start an introductory discussion by emailing your group with the following pieces of information.
-Name
-Neighborhood
-Affiliations - corporate or not
-Something you want to get from the forum or something you want to get done.
-Anything else you want to add but don't write a book. There's plenty of time to get to know one another.
-Then, encourage others to do the same. 
+
+As mentioned in the Getting Started Document, having an introduction thread is a requirement for any good online group. From our research, you should start an introductory discussion by emailing your group with the following pieces of information:
+* Name
+* Neighborhood
+* Affiliations - corporate or not
+* Something you want to get from the forum or something you want to get done.
+* Anything else you want to add but don't write a book. There's plenty of time to get to know one another.
+* Then, encourage others to do the same. 
 
 h4. Organizer Discussion Group
-Some Brigades have created a private organizer thread to ensure that the leadership team is aware of all outbound and inbound communication. At CfA HQ, we do this with [Brigade-Info] and have found it a great way to insure there is a “papertrail” of conversations between all parties. 
+
+Some Brigades have created a private organizer thread to ensure that the leadership team is aware of all outbound and inbound communication. At Code for Australia HQ, we do this with [Brigade-Info] and have found it a great way to insure there is a “papertrail” of conversations between all parties. 
 
 You only need to create this IF you feel it is necessary. IF you do create an organizer discussion group, ensure that the community knows to email the leadership group for questions and share the responsibility of responding across your team. Shared responsibility and empowerment are great things to have across your team.
 
 h3. Social Media Outlets
 
-At CfA HQ, we try to keep the Brigade's social media outlets to a minimum. To communicate across social media streams, we use #CfABrigade as a community tag. You can find us using that tag on Facebook, Twitter, Instagram, etc. 
+At Code for Australia HQ, we try to keep the Brigade's social media outlets to a minimum. To communicate across social media streams, we use #CfABrigade as a community tag. You can find us using that tag on Facebook, Twitter, Instagram, etc. 
 
-The best Brigade content gets featured on < http://codeforamerica.tumblr.com > and in the Brigade’s monthly newsletter. To have your content featured on the Brigade tumblr, shoot a message to [brigade-info].
+The best Brigade content gets featured on "http://codeforaustralia.tumblr.com":http://codeforaustralia.tumblr.com and in the Brigade’s monthly newsletter. To have your content featured on the Brigade tumblr, shoot a message to "info@codeforaustralia.org":mailto:info@codeforaustralia.org.
 
 In general, social media outlets are great venues to direct people to your core activities. Most Brigades have started by registering Facebook pages and twitter accounts to ensure that no one else takes them. As the Brigade matures and a local audience is developed, social media outlets become more useful. 
 
 h4. Facebook
 
-To page or not to page. This is the question. Within the facebook universe, pages are great locations to “showcase” your Brigade, but they don’t add much interactivity. Pages can be configured to repost RSS feeds. The BetaNYC tumblr automatically posts to the BetaNYC Facebook page, but does not actively promote the BetaNYC facebook page.
+To page or not to page. This is the question. Within the facebook universe, pages are great locations to “showcase” your Brigade, but they don’t add much interactivity. Pages can be configured to repost RSS feeds.
 
 On the other hand, a few Brigades are using discussion groups as secondary social venues. As a discussion group, this group should have the same welcoming tone as your in-person meetings and your primary discussion group. Note, once this group is created, you better use it. There is nothing worse than arriving at a party and no one is talking. 
 
@@ -140,7 +164,7 @@ Twitter accounts are like a Facebook discussion groups. You have to use them oth
 
 It is suggested to register your brigade’s twitter name and your first post should point people to your primary brigade page. Additionally, you should consider using your Brigade’s name, i.e. if you are using @code4maine as your twitter account, as your hashtag. This will enable anyone from your community to tweet at your brigade, while also monitoring the activity of your brigade members. This is what Brigade HQ does with “CfABrigade.”
 
-Once you feel that you have established a constituency or have a few Brigade members who are acting as “scribes,” empower them to use twitter. 
+Once you feel that you have established a constituency or have a few Brigade members who are acting as “scribes,” empower them to use Twitter. 
 
 When you are using twitter, be considerate about tweets and retweets. While one might say retweets are not endorsements, most of the time they can be see as such. Also, your Brigade twitter account should stay away from divisive statements. Make sure that whomever is maintaining the twitter account understands that if something is perceived as divisive, it might be divisive. 
 
@@ -164,3 +188,5 @@ GitHub and Google Code are great places to store code. GitHub, because of its so
 h4. Group Ideation Tools
 
 Ideascale and Google Moderator are two free tools you can explore. These tools enable your community to have dedicated forums for new ideas. Similar to secondary discussion spaces, a group ideation tool needs to be promoted and worked into your communications and activities. Should you set one up, you should actively use it.
+
+Questions? Comments? Send them to "info@codeforaustalia.org":mailto:info@codeforaustalia.org or hit us up "@codeforaus":http://www.twitter.com/codeforaus on Twitter with hashtag #cfabrigade.
