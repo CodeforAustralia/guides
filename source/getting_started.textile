@@ -14,7 +14,7 @@ h4. Get familiar with the Brigade Program.
 
 h4. Start reaching out to your local government and your friends
 
-* Check out How to: "Collaborate with Government":http://www.codeforaustralia.org. <!--TODO -->
+* Check out "How to: Collaborate with Government":collaborate_government.html
 * Introduce yourself to your government officials and start to outline potential ideas of collaboration.
 * Starting and running a Brigade is more fun and less work when you do with a group of friends. Gather your friends and bounce your ideas off of them. Make sure to share this Brigade Toolkit with them.
 
@@ -35,7 +35,7 @@ h4. Host an organizers’ planning party
 
 h4. Create your Brigade online
 
-* You can find out more about this in "“Websites, Meetup, and Social Media Outlets.”":http://www.codeforaustralia.org <!-- TODO -->
+* You can find out more about this in "“Websites, Meetup, and Social Media Outlets.”":social_media.html
 * Create a “Code for [City Name]” or “Open [City Name]” on "Meetup.com":http://www.meetup.com
 ** Add “Code for Australia Brigade” and “Code for Australia to Meetup categories.
 ** Other good categories to add are: open source, hackerspaces, hackers, open government, hacking, civic engagement, web designers and developers, open data, civic action, civic engagement & technology
@@ -81,7 +81,7 @@ h5. Keep building your local community. And participating in the national one.
 
 h4. Start your next activity!
 
-* Check out these "Key Activities":http://www.codeforaustralia.org and choose where you want to get started next! Key Activities include:
+* Check out these Key Activities and choose where you want to get started next! Key Activities include:
 ** Help government get open with data
 ** Publish an open budget
 ** Help cities deploy apps
@@ -128,4 +128,4 @@ Safe space – A place where anyone can relax and be fully self-expressed, witho
 
 Community Makers – tinkerers, designers, software developers, data scientists, technical project or product managers, policy makers, lawyers, activists, non-governmental organizations, and government representatives.
 
-*Note:* You can find more information about Brigade Culture in "“How to: Welcome New Members.”":http//codeforaustralia.org <!-- TODO -->
+*Note:* You can find more information about Brigade Culture in "“How to: Welcome New Members.”":welcome_members.html

@@ -14,15 +14,15 @@ An organizer for the Code for America Brigade Program is a volunteer who is inte
 
 h4. Brigade Captain or Co-Captains
 
-A Code for America Brigade Captain is a volunteer who has been accepted into the Captains program and made a one year commitment to organizing. In this year, they will lead their local community and collaborate with their local government to develop a local civic hacking practice.
+A Code for Australia Brigade Captain is a volunteer who has been accepted into the Captains program and made a one year commitment to organizing. In this year, they will lead their local community and collaborate with their local government to develop a local civic hacking practice.
 
-This individual or individuals has/have demonstrated leadership as a community organizer (ideally a Brigade Organizer), actively works with a local government partner/s, and has formally applied, and subsequently, accepted to the Brigade Captain’s training program. Brigade Captains receive benefits including an operating budget, including a trip to San Francisco for training and attendance to Code for America’s annual Summit.
+This individual or individuals has/have demonstrated leadership as a community organizer (ideally a Brigade Organizer), actively works with a local government partner/s, and has formally applied, and subsequently, accepted to the Brigade Captain’s training program. <!-- Brigade Captains receive benefits including an operating budget, including a trip to San Francisco for training and attendance to Code for America’s annual Summit. -->
 
 h3. Core Team Members
 
 Core Team Members are important to a Brigade to diversify and distribute responsibilities in order to be more sustainable and more effective as a unit. Core Team Members work with the Organizers/Captains to lead specific areas of their local Brigade.
 
-Code for America’s Brigade Program provides programming for the following three Core Team Members:
+Code for Australia's Brigade Program provides programming for the following three Core Team Members:
 
 h4. Delivery Lead
 
