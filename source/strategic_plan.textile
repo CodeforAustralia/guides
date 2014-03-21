@@ -26,6 +26,8 @@ h5. Delivery Lead
 
 [ __People with a working knowledge of all the projects being hacked on at a given time in the Brigade. These people must have a technical background and understand the needs of those projects, and help members find projects (and vice versa).__ ]
 
+__See here for "more information on the role of Delivery Lead":delivery_lead.html__
+
 h3. Priorities This Year
 
 [ __Describe what you want your Brigade to achieve over the next 12 months. What would success look like?__ ]
