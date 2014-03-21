@@ -4,9 +4,9 @@ This section of the guides explains how to build your Brigade's presence online 
 
 endprologue.
 
-h3. Introduction 
+h3. Introduction
 
-If your Brigade isn’t on the Internet is doesn’t exist. Also, you should take into consideration your audience is divided into two groups: 1. your Brigade; and 2. the world at large. When communicating with the world at large, remember to keep your message simple. As the saying goes, "less is more". Make your tone clear, professional, and universal. The same principle extends to your web presene. Be simple, clean, and efficient in your communications. First impressions last, so make yours count. 
+If your Brigade isn’t on the Internet is doesn’t exist. Also, you should take into consideration your audience is divided into two groups: 1. your Brigade; and 2. the world at large. When communicating with the world at large, remember to keep your message simple. As the saying goes, "less is more". Make your tone clear, professional, and universal. The same principle extends to your web presene. Be simple, clean, and efficient in your communications. First impressions last, so make yours count.
 
 There are six key elements to a Brigade’s digital presence:
 * *Website* - a single place on the internet where the world can find you.
@@ -20,9 +20,9 @@ Some of these tools are already provided by "Code for Australia":http://brigade.
 
 h3. Brigade Names
 
-What’s in a name? Everything! Finding the right Brigade name is key. 
+What’s in a name? Everything! Finding the right Brigade name is key.
 
-Before you start calling your Brigade __Code for X__ or __Open X__, do some research. See if anyone else is already using those names, and if they are try and get in touch with them.  Write out all the different permutations. If your city is known for initials, write them down. Once you have searched via a search engine, do a "WHOIS":http://whois.net/ search on some variations. 
+Before you start calling your Brigade __Code for X__ or __Open X__, do some research. See if anyone else is already using those names, and if they are try and get in touch with them.  Write out all the different permutations. If your city is known for initials, write them down. Once you have searched via a search engine, do a "WHOIS":http://whois.net/ search on some variations.
 
 h4. Domains
 
@@ -32,7 +32,7 @@ h3. Building Your Brigade's Web Presence
 
 This section will walk you through the Brigade’s site and ideas on how to maintain your own Brigade site.
 
-To start, there are two things you need to create for your Brigade. 
+To start, there are two things you need to create for your Brigade.
 # Register your location and brigade by sending an email request to "info@codeforaustralia.org":mailto:info@codeforaustralia.org
 # Create an event registration site (e.g. on "Meetup":http://www.meetup.com) and communications list for your Brigade.
 
@@ -50,7 +50,7 @@ This completed when you first register. If you didn’t add your location to the
 
 *Brigade*
 
-At "http://brigade.codeforaustralia.org/brigades":http://brigade.codeforaustralia.org/brigades - you will need to login and deploy an app. If you do not see a ticket 
+At "http://brigade.codeforaustralia.org/brigades":http://brigade.codeforaustralia.org/brigades - you will need to login and deploy an app. If you do not see a ticket
 
 At "http://brigade.codeforaustralia.org/events":http://brigade.codeforaustralia.org/events
 * Meetup.com - tag your meetup with “Code for Australia Brigade”
@@ -58,7 +58,7 @@ At "http://brigade.codeforaustralia.org/events":http://brigade.codeforaustralia.
 
 *Applications*
 
-For now, file a ticket on github and start the issue with “App” 
+For now, file a ticket on github and start the issue with “App”
 
 *Calendar*
 
@@ -72,10 +72,10 @@ For now, file a ticket on github and start the issue with “Cal” and make sur
 
 h4. Your Brigade site
 
-As mentioned above, your primary web presence is your “online” home and where people will gather their first impressions. When starting off, it is recommended to keep your presence as simple and clean as possible. 
+As mentioned above, your primary web presence is your “online” home and where people will gather their first impressions. When starting off, it is recommended to keep your presence as simple and clean as possible.
 
 At a minimum, your site should include the following:
-* A welcome page that introduces the Brigade to your city and how to connect. A great example from the United States is "http://welcome.codeforhamptonroads.org":http://welcome.codeforhamptonroads.org/ 
+* A welcome page that introduces the Brigade to your city and how to connect. A great example from the United States is "http://welcome.codeforhamptonroads.org":http://welcome.codeforhamptonroads.org/
 * An about page that informs people whom and where to ask questions.
 * Where to connect to your Brigade events.
 * A link to your discussion group and how to introduce new members to the community.
@@ -86,13 +86,13 @@ h4. Setting up your Brigade site
 
 The best Brigade sites are simple to navigate and manage. There are a few ways to accomplish this. One option is to create a simple "tumblr":http://www.tumblr.com or "wordpress":http://www.wordpress.com page and configure it as you see fit. Second, you can fork the "Brigade Bootstrap.":https://github.com/c4hrva/c4hrva-landing Third, you could fork and implement a variation of "Chicago’s Open Gov Hacknight website":https://github.com/open-city/open-gov-hack-night.
 
-Note: If you end up deploying something else, please share the code with other Brigade organizers. Once you submit your City Profile and Strategic Plan, you will be able to share code on the Brigade Organizers forum.
+Note: If you end up deploying something else, please share the code with other Brigade organizers. Once you submit your City Profile":city_profile":city_profile.html and "Strategic Plan":strategic_plan.html, you will be able to share code on the Brigade Organizers forum.
 
 h3. Event Registration Tool
 
 For simplicity, we recommend using "Meetup.com":http://www.meetup.om. Most of the Brigades are on Meetup.com and this tool provides just enough features to get started. The downside is that you can't collect email addresses with Meetup.com. If you'd like to collect the email addresses of your Brigade members, one alternative is to use "Eventbrite":http://www.eventbrite.com.
 
-Note: We understand that Meetup.com isn’t always avaliable around the world. Once you submit your "City Profile":https://docs.google.com/document/d/1r0aEcMwpMSwo4P-x6PJ5WV5y1ouciOkvRTiGATFJAmU/edit and "Strategic Plan":strategic_plan.html, if you have questions or end up using another tool, you can let other organizers know on the Brigade Organizers forum.
+Note: We understand that Meetup.com isn’t always avaliable around the world. Once you submit your City Profile and Strategic Plan, if you have questions or end up using another tool, you can let other organizers know on the Brigade Organizers forum.
 
 h4. Configuring Meetup.com
 
@@ -117,7 +117,7 @@ Other good categories to add are: open source, hackerspaces, hackers, open gover
 5. Under “optional features,” enable “Mailing List”
 * “Allow all members to send messages”
 * Under “message board,” select “Turn off message board and hide it.”
-* On the same page, fill in your other links. 
+* On the same page, fill in your other links.
 * Then, start an introductory thread. This is explained in the next chapter Discussion Group
 
 h3. Discussion Group
@@ -136,50 +136,50 @@ As mentioned in the Getting Started Document, having an introduction thread is a
 * Affiliations - corporate or not
 * Something you want to get from the forum or something you want to get done.
 * Anything else you want to add but don't write a book. There's plenty of time to get to know one another.
-* Then, encourage others to do the same. 
+* Then, encourage others to do the same.
 
 h4. Organizer Discussion Group
 
-Some Brigades have created a private organizer thread to ensure that the leadership team is aware of all outbound and inbound communication. At Code for Australia HQ, we do this with [Brigade-Info] and have found it a great way to insure there is a “papertrail” of conversations between all parties. 
+Some Brigades have created a private organizer thread to ensure that the leadership team is aware of all outbound and inbound communication. At Code for Australia HQ, we do this with [Brigade-Info] and have found it a great way to insure there is a “papertrail” of conversations between all parties.
 
 You only need to create this IF you feel it is necessary. IF you do create an organizer discussion group, ensure that the community knows to email the leadership group for questions and share the responsibility of responding across your team. Shared responsibility and empowerment are great things to have across your team.
 
 h3. Social Media Outlets
 
-At Code for Australia HQ, we try to keep the Brigade's social media outlets to a minimum. To communicate across social media streams, we use #CfABrigade as a community tag. You can find us using that tag on Facebook, Twitter, Instagram, etc. 
+At Code for Australia HQ, we try to keep the Brigade's social media outlets to a minimum. To communicate across social media streams, we use #CfABrigade as a community tag. You can find us using that tag on Facebook, Twitter, Instagram, etc.
 
 The best Brigade content gets featured on "http://codeforaustralia.tumblr.com":http://codeforaustralia.tumblr.com and in the Brigade’s monthly newsletter. To have your content featured on the Brigade tumblr, shoot a message to "info@codeforaustralia.org":mailto:info@codeforaustralia.org.
 
-In general, social media outlets are great venues to direct people to your core activities. Most Brigades have started by registering Facebook pages and twitter accounts to ensure that no one else takes them. As the Brigade matures and a local audience is developed, social media outlets become more useful. 
+In general, social media outlets are great venues to direct people to your core activities. Most Brigades have started by registering Facebook pages and twitter accounts to ensure that no one else takes them. As the Brigade matures and a local audience is developed, social media outlets become more useful.
 
 h4. Facebook
 
 To page or not to page. This is the question. Within the facebook universe, pages are great locations to “showcase” your Brigade, but they don’t add much interactivity. Pages can be configured to repost RSS feeds.
 
-On the other hand, a few Brigades are using discussion groups as secondary social venues. As a discussion group, this group should have the same welcoming tone as your in-person meetings and your primary discussion group. Note, once this group is created, you better use it. There is nothing worse than arriving at a party and no one is talking. 
+On the other hand, a few Brigades are using discussion groups as secondary social venues. As a discussion group, this group should have the same welcoming tone as your in-person meetings and your primary discussion group. Note, once this group is created, you better use it. There is nothing worse than arriving at a party and no one is talking.
 
 h4. Twitter
 
-Twitter accounts are like a Facebook discussion groups. You have to use them otherwise they seem stale. 
+Twitter accounts are like a Facebook discussion groups. You have to use them otherwise they seem stale.
 
 It is suggested to register your brigade’s twitter name and your first post should point people to your primary brigade page. Additionally, you should consider using your Brigade’s name, i.e. if you are using @code4maine as your twitter account, as your hashtag. This will enable anyone from your community to tweet at your brigade, while also monitoring the activity of your brigade members. This is what Brigade HQ does with “CfABrigade.”
 
-Once you feel that you have established a constituency or have a few Brigade members who are acting as “scribes,” empower them to use Twitter. 
+Once you feel that you have established a constituency or have a few Brigade members who are acting as “scribes,” empower them to use Twitter.
 
-When you are using twitter, be considerate about tweets and retweets. While one might say retweets are not endorsements, most of the time they can be see as such. Also, your Brigade twitter account should stay away from divisive statements. Make sure that whomever is maintaining the twitter account understands that if something is perceived as divisive, it might be divisive. 
+When you are using twitter, be considerate about tweets and retweets. While one might say retweets are not endorsements, most of the time they can be see as such. Also, your Brigade twitter account should stay away from divisive statements. Make sure that whomever is maintaining the twitter account understands that if something is perceived as divisive, it might be divisive.
 
 h4. Google+ and others...
 
-A few Brigades are using Google+ groups in the same way others are using Facebook groups. 
+A few Brigades are using Google+ groups in the same way others are using Facebook groups.
 
-h3. Project / Ideation Tools 
+h3. Project / Ideation Tools
 
 A fundamental output of the Brigade program is creating software and policy programs. The best way to demonstrate effectiveness is to demonstrate the tools you have created. Several Brigades have sites that outline the tools they have deployed/re-deployed. A few Brigades have ideation - a place where people can propose ideas - sites. Regardless if it is a software idea or a policy idea, you should work hard to capture your Brigade’s output.
 
 Examples of great project lists:
-* Chicago - Smart City Apps - http://opengovhacknight.org 
+* Chicago - Smart City Apps - http://opengovhacknight.org
 * Philadelphia  - Code for Philly - http://codeforphilly.org
-* Hampton Roads - Code for Hampton Roads - http://codeforhamptonroads.org/#projects 
+* Hampton Roads - Code for Hampton Roads - http://codeforhamptonroads.org/#projects
 
 h4. Code repositories
 
