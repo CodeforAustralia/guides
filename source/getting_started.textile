@@ -10,7 +10,7 @@ h4. Get familiar with the Brigade Program.
 
 * Check out the "Brigade Pitch Deck":http://www.codeforaustralia.org. <!-- TODO -->
 * Read through this Guide.
-* Use the templates "“city profile”":http://www.codeforaustralia.org <!-- TODO --> and "“one year plan”":http://www.codeforaustralia.org <!-- TODO --> to think about the resources needed to sustain the brigade.
+* Use the templates "“city profile”":city_profile.html and "“one year plan”":http://www.codeforaustralia.org <!-- TODO --> to think about the resources needed to sustain the brigade.
 
 h4. Start reaching out to your local government and your friends
 
@@ -30,7 +30,7 @@ h4. Host an organizers’ planning party
 ** Gather a group representing diverse skillsets and expertise such as:
 ** Code, government/policy, data, design, events/marketing
 * Use your network - great places to look for interested individuals are at hacking events, with in other meetups, at co-working spaces, and within local government.
-* At this organizers’ planning party, complete a "“City Profile”":http://www.codeforaustralia.org <!-- TODO -->
+* At this organizers’ planning party, complete a "“City Profile”":city_profile.html
 * Send your completed City Profile to "info@codeforaustralia.org":mailto:info@codeforaustralia.org to set up a 1:1 meeting with the Brigade staff and your Brigade’s organizing team
 
 h4. Create your Brigade online

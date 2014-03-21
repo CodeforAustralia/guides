@@ -1,6 +1,6 @@
 h2. How to Collaborate with Government
 
-Collaborating with government is one of the defining criteria of a Brigade. We require this because we believe to build the most impactful solutions, both government and constituents must have a seat at the table. But collaboration is not always easy. It takes commitment from all parties, time, and a willingness to walk the proverbial mile in one another’s shoes. 
+Collaborating with government is one of the defining criteria of a Brigade. We require this because we believe to build the most impactful solutions, both government and constituents must have a seat at the table. But collaboration is not always easy. It takes commitment from all parties, time, and a willingness to walk the proverbial mile in one another’s shoes.
 
 endprologue.
 
@@ -13,23 +13,23 @@ h3. Ways to Reach Out & Collaborate with Your Local Government.
 h5. Get to Know Your City & Local Government
 
 The best way to get started working with the local government in your city is by getting to know it. Do some research, either by yourself or with your Brigade at a Hack Night. Some useful questions to answer include:
-* Does your city have a strong mayor–council government system, a weak mayor–council system, or a council-manager government? 
-* Who is the mayor and who is on the city council? 
-* Are there any departments or government employees that would make good allies for your Brigade? Do you have a Chief Innovation Officer, Chief Data Officer, Office of Innovation, etc? 
+* Does your city have a strong mayor–council government system, a weak mayor–council system, or a council-manager government?
+* Who is the mayor and who is on the city council?
+* Are there any departments or government employees that would make good allies for your Brigade? Do you have a Chief Innovation Officer, Chief Data Officer, Office of Innovation, etc?
 * Does your city have an open data portal? If not, are agencies publishing data?
 * What other local groups are doing similar work? Have your local good government groups filed freedom of information requests and liberating data?
 
-Research your city by completing "“City Profile”":https://docs.google.com/document/d/1r0aEcMwpMSwo4P-x6PJ5WV5y1ouciOkvRTiGATFJAmU/edit" document and share your findings with Brigade organisers on Yammer.
+Research your city by completing "“City Profile”":city_profile.html document and share your findings with Brigade organisers on Yammer.
 
 h5. Attend City Council Meetings
 
 * Send a representative from your brigade to each City Council meeting. They can take notes and report back to your brigade on the meeting’s outcomes, city priorities, and any opportunities for overlap with current Brigade projects or opportunities for new projects.
-* City Council meetings are great places to advocate for policies your brigade would like to see in your city, like open data or procurement reform. Council meetings are good venues for you to show support for the work your local government is doing. It’s important to recognize when your city does great work in addition to advocating when you want to see something change.  		
+* City Council meetings are great places to advocate for policies your brigade would like to see in your city, like open data or procurement reform. Council meetings are good venues for you to show support for the work your local government is doing. It’s important to recognize when your city does great work in addition to advocating when you want to see something change.
 
 h5. Start a conversation with a government official, employee, or city councilor
 
 * When reaching out to government, use Code for Australia. Email us at "info@codeforaustralia.org":mailto:info@codeforaustralia.org and we will let you know if we have any contacts in your local government.
-* Once you have gotten familiar with your local government, you will probably get a sense of the department heads, councilors, or executives whose interests or areas of expertise overlap with your Brigade’s. 
+* Once you have gotten familiar with your local government, you will probably get a sense of the department heads, councilors, or executives whose interests or areas of expertise overlap with your Brigade’s.
 * Ask these folks to lunch or coffee. Understand what they are passionate about. See if there is any overlap with what you want to do and with technology.
 * The more you meet with members of your local government, the faster you can learn about their processes, systems, constraints, intentions, and desires.
 
@@ -53,7 +53,7 @@ h5. Find quick wins
 
 h5. Meet at the Town Hall
 
-* If 80 percent of success is really just showing up, showing up and meeting at the Town Hall can go a long way. 
+* If 80 percent of success is really just showing up, showing up and meeting at the Town Hall can go a long way.
 * Ask your local government officers whether you can implement a “hall pass” program, i.e. badges that let you meet with city staff where they work.
 
 h5. Collaborate on a project or co-host an event
@@ -62,16 +62,16 @@ h5. Collaborate on a project or co-host an event
 
 h5. Keep the dialogue going between the city and your Brigade
 
-* As you build more and more relationships with local government, make sure to keep your contacts in local government in the loop. Continue to invite them to your meetings, make sure they’re aware of what’s happening and of your objectives. 
+* As you build more and more relationships with local government, make sure to keep your contacts in local government in the loop. Continue to invite them to your meetings, make sure they’re aware of what’s happening and of your objectives.
 * Don’t get discouraged if you hit roadblocks or go through periods where there are lulls.
 * As Raleigh Brigade Captain Chad Foley says, __“Be patient. It’s going to take time to establish and build those relationships.”__
 
 h5. Join citizen advisory councils and invite local gov to join leadership roles in your Brigade
 
-* If there are commissions or councils in your city that overlap with areas your Brigade is working on, join them! 
+* If there are commissions or councils in your city that overlap with areas your Brigade is working on, join them!
 * Conversely, invite interested local government employees to be your Brigade’s Local Government Sponsor or Co-Captain.
 
-h3. How can cities effectively collaborate with a local civic hacker community? 
+h3. How can cities effectively collaborate with a local civic hacker community?
 
 In Raleigh, North Carolina, local civic technologists from inside government and out have partnered to build an active Code for America Brigade: a volunteer group of civic geeks organizing civic innovation and technology as well as civic-minded community efforts in Raleigh to advance the open government and open data movements. Part of what has made their initiative so successful is the strong partnership between leaders from within local government and local developers.
 
@@ -79,8 +79,8 @@ Join this conversation with Chad Foley, and Jason Hibbets, co-captains of the Ra
 
 Watch the video: "http://www.codeforamerica.org/08-07-2013/":http://www.codeforamerica.org/08-07-2013/
 
-__“You don’t have to show up ready to hack. Just show up ready to share information.”__ --Jason Hibbets, Project Manager at RedHat & Raleigh Brigade Co-captain 
+__“You don’t have to show up ready to hack. Just show up ready to share information.”__ --Jason Hibbets, Project Manager at RedHat & Raleigh Brigade Co-captain
 
-__“Try to find overlapping objectives. And see, and understand what the [local government] stakeholder’s goals are and what you’re trying to accomplish and try to marry those together.”__ --Chad Foley, City of Raleigh IT Department & Raleigh Brigade Co-captain 
+__“Try to find overlapping objectives. And see, and understand what the [local government] stakeholder’s goals are and what you’re trying to accomplish and try to marry those together.”__ --Chad Foley, City of Raleigh IT Department & Raleigh Brigade Co-captain
 
 Questions? Comments? Send them to "info@codeforaustalia.org":mailto:info@codeforaustalia.org or hit us up "@codeforaus":http://www.twitter.com/codeforaus on Twitter with hashtag #cfabrigade.
