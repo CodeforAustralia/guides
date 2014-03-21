@@ -1,5 +1,62 @@
-h2. City Profile and City Assessment Documents
+h2. City Profile and City Assessment
+
+This document is designed to help you think about your local resources. Feel free to share it with other Brigade Captains for feedback and/or insight into how you can best tap your community’s resources.
 
 endprologue.
 
-h4. To do ...
+h1. Code for [City Name] Assessment
+
+This template is designed to help you think about your local resources. Feel free to share it with other Brigade Captains for feedback and/or insight into how you can best tap your community’s resources.
+
+Copy and paste the text below or make a copy of our "Google Document":http://codeforaustralia.org. <!-- TODO -->
+
+h2. Government
+
+__Outline individuals, websites, and key personnel who can help you build a relationship with Government.__
+
+h4. Jurisdictions & Agencies
+
+h4. People
+
+h4. Potential Partners
+
+h4. Notable Legislation or History
+
+h4. Existing open data portals
+
+
+h2. Community
+
+h4. Potential Brigade Names
+
+h4. Foundations:
+
+__List of foundations with links and a bit of context.__
+
+h4. Adjacent Networks
+
+h5. __Groups Meeting Monthly__
+
+h5. __Groups Meeting Weekly__
+
+h4. Public Forums / Good Government Organizations 
+
+__List of foundations with links and a bit of context.__
+
+h2. Facilities
+
+__This is a list good to great places to host meetups. Locations should be accessible to all, have wifi, accessible power outlets, and tables and chairs for people to place laptops.__
+
+h4. Co-working Spaces
+
+h4. Meeting Spaces
+
+h4. Event Spaces
+
+h4. Libraries
+
+h2. Potential Brigade Focus & Projects 
+
+__Brainstorm a list of potential areas or projects where your Brigade could focus. These can be broad or specific. Try to get at least one suggestion from each person at your planning party.__
+
+__Remember, do not limit yourself by drafting a list of solutions. Instead, focus on a list of community problems or enhancements you would like to see. Later, you can evaluate how to solve them (i.e. with technology, data, policy).__
