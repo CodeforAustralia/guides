@@ -1,0 +1,41 @@
+h2. Role: Delivery Lead
+
+The Delivery Lead is the point for projects in the Brigade.
+
+endprologue.
+
+h3. Description
+
+The Delivery Lead is the point for projects in the Brigade. The Delivery Lead should have a working knowledge of all the projects being hacked on at a given time in the Brigade, understand the needs of those projects, and help members find projects and projects find members.
+
+The Delivery Lead’s areas of focus include:
+* Responsibile for Brigade projects
+* Active knowledge of all projects being worked on in local Brigade
+* Understands needs of those projects
+* Connects new members to projects
+* Works with project teams and project leads on project planning and accessing resources
+* Understands the priorities and needs of the city
+* Funnels relevant Code for Australia Fellowship and Brigades apps to Brigade members for redeployment opportunities
+
+h3. Relevant skills
+
+This role is a great fit for someone with a project management background. Adaptability and great communication skills are also valuable for this role.
+
+h3. Commitment
+
+* Attend monthly Hangout for Project Lead Core Team Members
+* Attend hack nights and Brigade events that generate projects such as hackathons
+* Available for a few hours of communication per month on projects
+
+h3. What Code for Australia Brigade Provides
+
+* Training in relevant areas such as project management, user research, prototyping best practices, and more
+*  Forum to connect with Delivery Lead core team members in Brigades across the world
+* App redeployment support
+
+h3. Metrics
+
+* The Delivery Lead will track the following:
+* Active projects
+* Completed projects
+* App redeployment

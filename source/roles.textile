@@ -10,7 +10,7 @@ Brigades are lead by Organizers or Brigade Captains.
 
 h4. Brigade Organizer/s
 
-An organizer for the Code for America Brigade Program is a volunteer who is interested in leading a local Brigade community. This individual or collection of individuals has/have committed themselves to championing Brigade activities in their City and working with the Brigade leadership team.
+An organizer for the Code for Australia Brigade Program is a volunteer who is interested in leading a local Brigade community. This individual or collection of individuals has/have committed themselves to championing Brigade activities in their City and working with the Brigade leadership team.
 
 h4. Brigade Captain or Co-Captains
 
@@ -35,7 +35,7 @@ The Delivery Lead is the point for projects in the Brigade. The Delivery Lead sh
 * Understands the priorities and needs of the city
 * Funnels relevant CfA Fellowship and Brigades apps to Brigade members for redeployment opportunities
 
-See "here":https://docs.google.com/document/d/13ehm63hhYgjSowLnX2FfAF2O2e1yJMwmZPhXU3m06bc/edit#heading=h.mh87utvzl1f5 for more information on the Delivery Lead.
+See here for "more information on the role of Delivery Lead":delivery_lead.html.
 
 h4. Community Organizer
 
