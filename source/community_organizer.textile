@@ -1,0 +1,42 @@
+h2. Community Organizer (Core Team Member)
+
+Community Organizers are responsible for recruiting and welcoming new members to the Brigade and helping them get oriented.
+
+endprologue.
+
+h3. Description
+
+The Community Organizer is responsible for recruiting and welcoming new members to the Brigade and helping them get oriented. They are the point of contact for members who have questions about how to get started, what to do next, or how to help locally. 
+
+This Community Organizer should know about upcoming member events, be available to attend hack nights to assist with member questions, and create a welcoming environment. This position doesn’t necessarily require technical knowledge. 
+
+The Community Organizer’s areas of focus include:
+* Ownership of building and maintaining community
+* Recruits new members
+* Onboards new members
+* Empowers new members to use skills in Brigade structure
+* Manages Google group
+* Manages Meetup
+* Helps members move up the ladder of engagement
+* Keeps track of membership
+
+h3. Relevant skills
+
+This role is a great fit for someone who has a welcoming personality, adaptability, and great communication skills. Technical proficiency is not a requirement, but having the ability to weigh ideas that use technology is.
+
+h3. Commitment
+
+* Attend monthly Hangout for Community Organizer Core Team Members
+* Two to five hours/month on recruitment and outreach
+* Attend hack nights and Brigade events to orient new members
+
+h3. What Code for Australia Provides
+
+* Training in relevant areas such as outreach/recruiting best practices, orientation/curriculum development, and more
+* Forum to connect with Community Organizer CTMs in Brigades across the world
+
+h3. Metrics
+
+* The Community Organizer will track the following:
+* New members
+* Active members

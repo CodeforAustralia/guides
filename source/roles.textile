@@ -52,7 +52,7 @@ The Community Organizer’s focuses on building and maintaining community. This 
 * Helping members move up the ladder of engagement
 * Keeping track of membership
 
-See "here":https://docs.google.com/document/d/13ehm63hhYgjSowLnX2FfAF2O2e1yJMwmZPhXU3m06bc/edit#heading=h.mh87utvzl1f5 for more information on the Community Organizer.
+See here for "more information on the Community Organizer":community_organizer.html.
 
 h4. Storyteller
 
@@ -66,7 +66,7 @@ The Storyteller’s areas of focus include:
 * Other content (video, photos, etc.)
 * Local press
 
-See "here":https://docs.google.com/document/d/13ehm63hhYgjSowLnX2FfAF2O2e1yJMwmZPhXU3m06bc/edit#heading=h.mh87utvzl1f5 for more information on the Storyteller.
+See here for "more information on the Storyteller":story_teller.html.
 
 h3. Other Roles
 

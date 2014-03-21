@@ -1,4 +1,4 @@
-h2. Role: Delivery Lead
+h2. Delivery Lead (Core Team Member)
 
 The Delivery Lead is the point for projects in the Brigade.
 
@@ -27,7 +27,7 @@ h3. Commitment
 * Attend hack nights and Brigade events that generate projects such as hackathons
 * Available for a few hours of communication per month on projects
 
-h3. What Code for Australia Brigade Provides
+h3. What Code for Australia Provides
 
 * Training in relevant areas such as project management, user research, prototyping best practices, and more
 *  Forum to connect with Delivery Lead core team members in Brigades across the world
