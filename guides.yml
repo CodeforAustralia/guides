@@ -27,10 +27,13 @@ index:
     - title: Build the "presence" of your own Brigade
       url: social_media
       text: Guidance on how to communicate your message and build the "presence" of your Brigade
-  How To:
+  How To Guides:
     - title: How to get started
       url: getting_started
       text: Everything you need to know to start contributing to a Code For Australia project.
+    - title: How to welcome new members to your Brigade
+      url: welcome_members
+      text: As we build digital interfaces for all we create welcoming, opening and accepting spaces for all
     - title: How to host a "Hack Night"
       url: hack_night
       text: Everything you need to know about hosting a "Hack Night"
@@ -40,14 +43,11 @@ index:
     - title: How to brand and market your Brigade
       url: branding
       text: Some suggestions about to brand your brigade of civic hackers!
-    - title: How to welcome new members to your Brigade
-      url: welcome_members
-      text: As we build digital interfaces for all we create welcoming, opening and accepting spaces for all
-  Templates:
-    - title: City Profile - City Assessment Documents
+  Helpful Documents:
+    - title: City Profile and Assessment
       url: city_profile
       text: This document is designed to help you think about your local resources. 
-    - title: Strategic Plan
+    - title: Strategic Plan Template
       url: strategic_plan
       text: This document provides a skeleton structure for documenting your Brigade's stratic plan.
     - title: Events Guide
@@ -56,41 +56,41 @@ index:
     - title: Name Tag Template
       url: name_tags
       text: Easily print off spiffy looking name tags for your Brigade meetups.
-    - title: Meetup Sign
+    - title: Meetup Sign Template
       url: meetup_sign
       text: A nice big sign you can place outside your meetup space to welcome new members.
-  Marketing Materials:
-    - title: One Page Flyer
-      url: flyer
-      text: Exactly what it says on the box! A simple one-page flyer that decribes the core activities of a Brigade
-    - title: Slide Deck
+    - title: Slide Deck Template
       url: slide_deck
       text: A professional-looking slide deck you can use to introduce Code for Australia to your local government connections.
+  Marketing Materials:
+    - title: One Page Flyer Template
+      url: flyer
+      text: Exactly what it says on the box! A simple one-page flyer that decribes the core activities of a Brigade
     - title: Stickers
       url: stickers
       text: Because life is always more fun with stickers!
     - title: Style Guide
       url: style_guide
       text: Established design patterns fonts and logos used by Code for Australia.
-  I'm a Developer:
-    - title: Programmer Prerequisites
-      url: programmer_prerequisites
-      text: This guide covers the basic reading material that will get you up to speed in order to join an exsiting team and contribute to a code base.
-    - title: Git Workflow
-      url: git_workflow
-      text: This guide covers the git workflow used in all open source Code for Australia projects.
-    - title: Agile Development
-      url: agile_development
-      text: This guide covers the basic reading material that allow you to understand CfA's release processes.
-  I'm a Designer:
-    - title: Coming soon!
-      url: designer_prerequisites
-      text: ---
-  I'm into Media:
-    - title: Coming soon!
-      url: media_info
-      text: ---
-  I'm in Government:
-    - title: Coming soon!
-      url: gov_info
-      text: ---
+  # I'm a Developer:
+  #   - title: Programmer Prerequisites
+  #     url: programmer_prerequisites
+  #     text: This guide covers the basic reading material that will get you up to speed in order to join an exsiting team and contribute to a code base.
+  #   - title: Git Workflow
+  #     url: git_workflow
+  #     text: This guide covers the git workflow used in all open source Code for Australia projects.
+  #   - title: Agile Development
+  #     url: agile_development
+  #     text: This guide covers the basic reading material that allow you to understand CfA's release processes.
+  # I'm a Designer:
+  #   - title: Coming soon!
+  #     url: designer_prerequisites
+  #     text: ---
+  # I'm into Media:
+  #   - title: Coming soon!
+  #     url: media_info
+  #     text: ---
+  # I'm in Government:
+  #   - title: Coming soon!
+  #     url: gov_info
+  #     text: ---
